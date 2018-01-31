@@ -1,4 +1,4 @@
-# MySQL Workbench Model Documentation HTML
+# Plugin MySQL Workbench Model Documentation HTML
 
 ## Installation
 
